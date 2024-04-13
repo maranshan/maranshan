@@ -7,6 +7,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,html,js,react,sqlite)](https://skillicons.dev)
 
 # 💪🏾 Skills:
-[![My Skills](https://skillicons.dev/icons?i=aws,java,azure,js,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,azure)](https://skillicons.dev)
 
 
