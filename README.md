@@ -1,4 +1,12 @@
-### Hi there 👋
+# 🚀🚀 About Me:
+🔭 I’m currently working at Junior Consulting<br>🎓 Studying M.Sc. Computer Science at Norwegian University of Science and Technology. <br>🌱 Learning more about Go, backend development, information retrieval and agile software development.
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Seran-Shanmugathas) 
+
+# 💻 Tech Stack:
+[![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&lineCount=1&bg=%230D1117&badge=%23161B22&border=%2321262D&titleColor=%2358A6FF)
 
 <!--
 **maranshan/maranshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
