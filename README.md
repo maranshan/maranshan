@@ -1,15 +1,9 @@
 # 🚀 About Me:
 🔭 I’m currently working at Junior Consulting<br>🎓 Studying M.Sc. Industrial Economics and Technology Management at Norwegian University of Science and Technology with a specialization in Computer Science. <br>🌱 Learning more about how to leverage technology to create insight with data
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maranshan) 
-
-# 💻 Tech Stack:
-<img src="{[BadgeURLHere](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)}" />
+[![My Skills](https://skillicons.dev/icons?i=py,java,html,js,react)](https://skillicons.dev)
 
 
-<!--
 **maranshan/maranshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
