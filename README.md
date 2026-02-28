@@ -1,5 +1,5 @@
 # 🚀 About Me
-- 🎓 Studying M.Sc. Industrial Economics and Technology Management at NTNU, specializing in CS, AI & Optimization 
+- 🎓 Studying M.Sc. Industrial Economics and Technology Management at NTNU, specializing in CS (AI) & Finance 
 - 💼 Currently working at Junior Consulting, Norway's largest student-driven consulting firm
 - 🌱 Learning more about how to leverage technology to create insight with data
 
